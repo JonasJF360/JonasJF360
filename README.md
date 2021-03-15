@@ -3,7 +3,7 @@
 - 👀 I’m interested in Python, JavaScript, PHP and others languages.
 - Estou interessado em Python, JavaScript, PHP e outras linguagens.
 - 🌱 I’m currently learning programing.
-- Estou interessado em programação.
+- Atualmente estou aprendendo programação.
 - 💞️ I try to collaborate in a program that can bring me some learning or experience.
 - Procuro colaborar em algum programa que possa me trazer algum aprendizado ou experiência.
 
