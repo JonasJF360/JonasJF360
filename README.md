@@ -7,6 +7,7 @@
 - 💞️ `I intend to collaborate on some project that can bring me some learning or experience.`
   - Pretendo colaborar em algum projeto que possa me trazer algum aprendizado ou experiência.
 
+# LinkedIn profile: [Jonas J. Ferreira](https://www.linkedin.com/in/jonasjf/)
 
 <!---
 JonasJF360/JonasJF360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
