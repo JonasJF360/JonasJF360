@@ -1,7 +1,7 @@
 - 👋 `Hi, I’m Jonas J. Ferreira.`
   - Olá, eu sou Jonas J. Ferreira
-- 👀 `I’m interested in Python, C++, JavaScript, PHP and others programming languages.`
-  - Estou interessado em Python, C++, JavaScript, PHP e outras linguagens de programação.
+- 👀 `I’m interested in Python, C/C++, JavaScript, Java and others programming languages.`
+  - Estou interessado em Python, C/C++, JavaScript, Java e outras linguagens de programação.
 - 🌱 `I am currently learning to program in Python.`
   - Atualmente estou aprendendo a programar em Python.
 - 💞️ `I intend to collaborate on some project that can bring me some learning or experience.`
