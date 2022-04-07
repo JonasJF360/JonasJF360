@@ -1,7 +1,7 @@
  ## 👋 Olá! Meu nome é
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF6F9C&lines=Jonas+de+Jesus+Ferreira.)](https://github.com/JonasJF360)
 
-- 💻 Cursando Análise e Desenvolvimento de Sistemas pala Unicesumar.
+- 💻 Estou cursando Análise e Desenvolvimento de Sistemas pala Unicesumar.
 - 🌱 Atualmente estou aprendendo JavaScript e TypeScript.
 - ☕ Habilidades: Python, HTML5, CSS3, JavaScript, TypeScript, Vue.JS, Node, Express, Sequelize e SQL.
 - 👀 Também me interesso por: C/C++, Java e outras linguagens de programação.
@@ -15,7 +15,7 @@
 ### <p align="center">💻 Desenvolvedor Web: Back-end e um pouco de Front-end</p>
 
 <div align="center">
-  <a href="https://jonasjf360.github.io/landing_page/" target="_blank"><img src="https://img.shields.io/badge/Portifólio-Landing%20Page-blueviolet?style=for-the-badge" target="_blank"></a>
+  <a href="https://jonasjf360.github.io/landing_page/" target="_blank"><img src="https://img.shields.io/badge/Portifólio-Landing%20Page-blueviolet?style=for-the-badge"></a>
 </div>
 
 ### <p align="center">Skills</p>
