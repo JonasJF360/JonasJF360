@@ -21,11 +21,14 @@
 ### <p align="center">Skills</p>
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;" align="center">
-    <img alt="HTML" style="height: 40px; width:50px; padding-top: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-    <img alt="CSS" style="height: 40px; width:50px; padding-top: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img alt="JavaScript" style="height: 40px; width:50px; padding-top: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />	
-    <img alt="Python3" style="height: 50px; width:50px; padding-top: 10px;" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/512/Other-python-icon.png" />  
-    <img alt="Git" style="height: 40px; width:50px; padding-top: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img alt="Js" style="height: 30px; width:40px; padding: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img alt="Ts" style="height: 30px; width:40px; padding: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img alt="NodeJS" style="height: 30px; width:40px; padding: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+    <img alt="VueJS" style="height: 30px; width:40px; padding: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+    <img alt="HTML" style="height: 30px; width:40px; padding: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img alt="CSS" style="height: 30px; width:40px; padding: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img alt="Python" style="height: 30px; width:40px; padding: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+     <img alt="Git" style="height: 30px; width:40px; padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div><br>
 
 <div align="center">
