@@ -7,10 +7,7 @@
 - 💼 Ferramentas: VS Code, Git, Github.
 - 💞️ Pretendo colaborar em algum projeto que possa me trazer algum aprendizado e/ou experiência.
 <br><br>
-
-<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" widht="100%"/>
-
-
+-------------------------------------------------------------------------------
 ### <p align="center">💻 Desenvolvedor Web: Back-end e um pouco de Front-end</p>
 
 <div align="center">
