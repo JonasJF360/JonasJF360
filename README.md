@@ -1,11 +1,11 @@
  ## 👋 Olá, Meu nome é Jonas de Jesus Ferreira.
 
 - 💻 Estou cursando Análise e Desenvolvimento de Sistemas pala Unicesumar.
-- 🌱 Atualmente estou aprendendo JavaScript e TypeScript.
+- 🌱 Atualmente estou aprendendo JavaScript, Vue.JS e TypeScript.
 - ☕ Habilidades: Python, HTML5, CSS3, JavaScript, TypeScript, Vue.JS, Node, Express, Sequelize e SQL.
 - 👀 Também me interesso por: C/C++, Java e outras linguagens de programação.
 - 💼 Ferramentas: VS Code, Git, Github.
-- 💞️ Pretendo colaborar em algum projeto que possa me trazer algum aprendizado ou experiência.
+- 💞️ Pretendo colaborar em algum projeto que possa me trazer algum aprendizado e/ou experiência.
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" widht="100%"/>
