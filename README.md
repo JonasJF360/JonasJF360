@@ -1,5 +1,5 @@
  ## 👋 Olá! Meu nome é
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF6F9C&lines=Jonas+de+Jesus+Ferreira.)](https://github.com/JonasJF360)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%00591A&lines=Jonas+de+Jesus+Ferreira.)](https://github.com/JonasJF360)
 
 - 💻 Estou cursando Análise e Desenvolvimento de Sistemas pala Unicesumar.
 - 🌱 Atualmente estou aprendendo JavaScript e TypeScript.
