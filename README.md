@@ -2,8 +2,8 @@
 
 - 💻 Estou cursando Análise e Desenvolvimento de Sistemas pala Unicesumar.
 - 🌱 Atualmente estou aprendendo JavaScript, Vue.JS e TypeScript.
-- ☕ Habilidades: Python, HTML5, CSS3, JavaScript, TypeScript, Vue.JS, Node, Express, Sequelize e SQL.
-- 👀 Também me interesso por: C/C++, Java e outras linguagens de programação.
+- ☕ Habilidades: Python, Java, HTML5, CSS3, JavaScript, C++ e SQL.
+- 👀 Também me interesso por outras linguagens de programação com Scala por exemplo.
 - 💼 Ferramentas: VS Code, Git, Github.
 - 💞️ Pretendo colaborar em algum projeto que possa me trazer algum aprendizado e/ou experiência.
 <br><br>
