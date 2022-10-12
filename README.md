@@ -1,6 +1,6 @@
  ## 👋 Olá, Meu nome é Jonas de Jesus Ferreira.
 
-- Cursando Análise e Desenvolvimento de Sistemas pela Unicesumar.
+- Estou cursando Análise e Desenvolvimento de Sistemas pela Unicesumar.
 - Atualmente sou estoquista e responsável pelas compras e entregas técnicas dos produtos da marca STIHL na Soubhia e Cia LTDA.
 - Tenho conhecimento intermediário programação e meu objetivo é me tornar um desenvolvedor de software qualificado.
 - A área de informática é o que me move, e compartilhar meus conhecimento adquiridos é algo me agrada bastante, por isso estou sempre buscando meios de me aprimorar, profissional e pessoalmente. Valorizo muito o trabalho em equipe, pois, por mais que eu possa ser muito bom sozinho, isso certamente será mais difícil e desmotivador.
@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
     <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white">
-    <img src="https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
     <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
     <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
     <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
@@ -45,6 +45,7 @@
 <div align="center">
     <a  style="margin: 5px;" href = "mailto:jonasjf360@gmail.com"><img src="https://img.shields.io/badge/E--mail-0078d4?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
     <a style="margin: 5px;" href="https://www.linkedin.com/in/jonasjf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a style="margin: 5px;" href="https://my.indeed.com/p/jonasd-3dm06cl" target="_blank"><img src="https://img.shields.io/badge/Curriculo_Indeed-3B49DF?style=for-the-badge&logo=Codeforces&logoColor=white" target="_blank"></a>
 </div><br>
 
 <div align="center">
