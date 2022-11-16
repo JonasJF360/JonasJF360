@@ -1,9 +1,9 @@
  ## 👋 Olá, Meu nome é Jonas de Jesus Ferreira.
 
-- Estou cursando Análise e Desenvolvimento de Sistemas pela Unicesumar.
-- Atualmente sou estoquista e responsável pelas compras e entregas técnicas dos produtos da marca STIHL na Soubhia e Cia LTDA.
-- Tenho conhecimento intermediário programação e meu objetivo é me tornar um desenvolvedor de software qualificado.
-- A área de informática é o que me move, e compartilhar meus conhecimento adquiridos é algo me agrada bastante, por isso estou sempre buscando meios de me aprimorar, profissional e pessoalmente. Valorizo muito o trabalho em equipe, pois, por mais que eu possa ser muito bom sozinho, isso certamente será mais difícil e desmotivador.
+- Cursando Análise e Desenvolvimento de Sistemas pela Unicesumar.
+- Atualmente sou estoquista e responsável pelas compras e entregas técnicas dos produtos da marca STIHL na empresa Alvorada Produtos Agropecuários.
+- Tenho conhecimentos intermediários em programação e meu objetivo é me tornar um desenvolvedor de software qualificado.
+- A tecnologia é o que me motiva, e compartilhar meus conhecimento adquiridos é algo me agrada bastante, por isso estou sempre buscando meios de me aprimorar, profissional e pessoalmente.
 <br><br>
 -------------------------------------------------------------------------------
 ### <p align="center">💻 Desenvolvedor: Back-end e um pouco de Front-end</p>
