@@ -51,12 +51,9 @@
  
 <hr/>
 
-<img src= "https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  style="width: 250px; max-width: 300px;" align="right" alt="Computador iuriCode">   
-	
-<h2>Frase motivacional:</h2>
+<img src= "https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  style="width: 200px; margin-right: 10px;" align="left" alt="Computador iuriCode">   
 
-"O maior inimigo das coisas **MELHORES**
-
-são as coisas **BOAS**".
-
-_(Autor desconhecido)_
+<h2>Reflexão:</h2>
+<p>"O maior inimigo das coisas <b>MELHORES</b></p>
+<p>são as coisas <b>BOAS</b>".</p>
+<p><i>(Autor desconhecido)</i></p>
