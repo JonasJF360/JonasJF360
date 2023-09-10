@@ -1,6 +1,6 @@
  ## 👋 Olá, Meu nome é Jonas de Jesus Ferreira.
 
-- Cursando Análise e Desenvolvimento de Sistemas pela Unicesumar (Fev/2021 - Jul/2023).
+- Formado em Análise e Desenvolvimento de Sistemas pela Unicesumar (Fev/2021 - Jul/2023).
 - Atualmente atuo como vendedor na empresa IMPLEMAQ - Hilgert & Cia LTDA.
 - Tenho conhecimentos intermediários em programação e meu objetivo é me tornar um desenvolvedor de software qualificado.
 - A tecnologia é o que me motiva, e compartilhar meus conhecimento adquiridos é algo me agrada bastante, por isso estou sempre buscando meios de me aprimorar, profissional e pessoalmente.
