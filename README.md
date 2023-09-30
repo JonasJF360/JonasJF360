@@ -3,7 +3,7 @@
 - Tecnólogo em Análise e Desenvolvimento de Sistemas pela Unicesumar (Fev/2021 - Jul/2023).
 - Experiência atual: Vendedor interno na empresa IMPLEMAQ - Hilgert & Cia LTDA.
 - Possuo conhecimentos intermediários em programação, e minha ambição é evoluir para me tornar um desenvolvedor de software altamente qualificado.
-- Nasci no dia 23/05/1992 e tive meu primeiro contato com um computador aos 13 anos. Desde então, a afinidade com a tecnologia só cresceu. Hoje, posso afirmar que a tecnologia me motiva profundamente, e compartilhar os conhecimentos que adquiro é algo que me agrada imensamente. Estou constantemente em busca de novos aprendizados e aprimoramento nas áreas que já domino. Meu objetivo é tornar-me um profissional competente e, igualmente importante, um ser humano melhor.
+- Nasci em 1992 e tive meu primeiro contato com um computador aos 13 anos. Desde então, a afinidade com a tecnologia só cresceu. Hoje, posso afirmar que a tecnologia me motiva profundamente, e compartilhar os conhecimentos que adquiro é algo que me agrada imensamente. Estou constantemente em busca de novos aprendizados e aprimoramento nas áreas que já domino. Meu objetivo é tornar-me um profissional competente e, igualmente importante, um ser humano melhor.
 <br><br>
 -------------------------------------------------------------------------------
 ### <p align="center">💻 Desenvolvedor Back-end e um pouco de Front-end<br>ALGUNS DOS MEUS PROGETOS PESSOAIS</p>
