@@ -40,7 +40,7 @@
 <div align="center">
     <a  style="margin: 5px;" href = "mailto:contato.jonasjf@outlook.com.br"><img src="https://img.shields.io/badge/E--mail-0078d4?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
     <a style="margin: 5px;" href="https://www.linkedin.com/in/jonasjf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a style="margin: 5px;" href="https://my.indeed.com/p/jonasd-3dm06cl" target="_blank"><img src="https://img.shields.io/badge/Curriculo_Indeed-3B49DF?style=for-the-badge&logo=Codeforces&logoColor=white" target="_blank"></a>
+    <a href="https://jonasjf360.github.io/myportfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-3B49DF?style=for-the-badge&logo=Codeforces&logoColor=white" target="_blank"></a>
 </div><br>
 
 <div align="center">
