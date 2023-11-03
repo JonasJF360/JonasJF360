@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=18&pause=1000&repeat=false&random=false&width=500&lines=%F0%9F%91%8B+Ol%C3%A1%2C+Meu+nome+%C3%A9+Jonas+de+Jesus+Ferreira!" alt="👋 Olá, Meu nome é Jonas de Jesus Ferreira!" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&repeat=false&random=false&width=550&lines=%F0%9F%91%8B+Ol%C3%A1%2C+Meu+nome+%C3%A9+Jonas+de+Jesus+Ferreira!" alt="👋 Olá, Meu nome é Jonas de Jesus Ferreira!" /></a>
 
 - Tecnólogo em Análise e Desenvolvimento de Sistemas pela Unicesumar (Fev/2021 - Jul/2023).
 - Experiência atual: Vendedor interno na empresa IMPLEMAQ - Hilgert & Cia LTDA.
