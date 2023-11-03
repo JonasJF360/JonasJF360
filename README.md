@@ -51,13 +51,10 @@
 <img height=150  src="https://streak-stats.demolab.com?user=JonasJF360&theme=tokyonight&locale=pt_BR" />
 </div>
  
-<hr/>
-
-<img width="200" align="left" src= "https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computador iuriCode">   
+<hr/>   
 <h1>Reflexão:</h1>
 
 "O maior inimigo das coisas **MELHORES**
-
-são as coisas **BOAS**"
+são as coisas **BOAS**."
 
 _(Autor desconhecido)_
